@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BDROOM</string>
+    <string name="name_product">Name Product</string>
+    <string name="price_product">Price Product</string>
+    <string name="description_product">Description Product</string>
+    <string name="image_of_product">image_of_product</string>
+    <string name="add_product">add_product</string>
+    <string name="save">Save</string>
+</resources>
